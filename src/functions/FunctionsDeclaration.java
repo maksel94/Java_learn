@@ -1,13 +1,15 @@
 package functions;
 
 
+import java.util.Scanner;
+
 public class FunctionsDeclaration {
     private static void function1() {
         // sout current date
     }
 
     private static void function2(int a) {
-        if(a > 0) {
+        if (a > 0) {
             //..
         }
     }
